@@ -59,6 +59,7 @@ a {
 /*-----HEADER STYLE ENDS HERE------*/
 
 
+/*-----HERO STYLE STARTS HERE------*/
 .hero {
     height: 800px;
     width: 100%;
@@ -67,6 +68,12 @@ a {
     background-size: cover;
     background-position: center;
 }
+/*-----HERO STYLE ENDS HERE------*/
+
+
+
+
+
 
 .float-left {
     float: left;
