@@ -138,6 +138,7 @@ a {
 /*-----BENEFITS STYLE ENDS HERE------*/
 
 
+/*-----FOOTER STYLE STARTS HERE------*/
 .footer {
     padding: 30px;
     clear: both;
@@ -148,3 +149,4 @@ a {
 .footer h2 {
     font-size: 20px;
 }
+/*-----FOOTER STYLE ENDS HERE------*/
