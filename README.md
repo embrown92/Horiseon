@@ -5,7 +5,7 @@ In this project our main focus was updating the HTML starter code syntax for Hor
 
 ## List of changes that were committed in each section
 
-### HEAD
+#### HEAD
 * The title tag was changed to Horisean from just website.
 
 #### HEADER
